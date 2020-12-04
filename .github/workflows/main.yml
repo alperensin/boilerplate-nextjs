@@ -52,4 +52,4 @@ jobs:
         run: npm test
       
       - name: Make build production with pwa
-        run: NODE_ENV=production npm build
+        run: npm build
