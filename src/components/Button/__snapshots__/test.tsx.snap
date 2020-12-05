@@ -2,7 +2,7 @@
 
 exports[`<Button /> Should render the heading 1`] = `
 <main
-  class="styles__Wrapper-sc-1oc9oxe-0"
+  class=""
 >
   <h1>
     Button
